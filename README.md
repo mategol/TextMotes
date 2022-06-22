@@ -14,6 +14,7 @@ You can use emote codes anywhere you want. Just put configuraed phrase beneath "
 # Configuration
 You can configure each phrase for each emote, add and remove them simply in configuration file.
 Default configuration:
+```
   updown = 🙃
   heart = ❤
   smile = 🙂
@@ -38,7 +39,8 @@ Default configuration:
   tong = 😛
   cry = 😭
   party = 🥳
-  
+```
+
 # Controlling the software
 Since all is working in background, here is how you can controll the program for your needs.
 > ;quit; - shutdown the software
