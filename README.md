@@ -2,7 +2,7 @@
 A software for making you express your emotions without any trouble.
 
 # Usage
-You can use emote codes anywhere you want. Just put configuraed phrase beneath ";" characters and magic will happen.
+You can use emote codes anywhere you want. Just put configured phrase beneath **;** characters and magic will happen.
 
 # Example
 > ;smile; will produce 🙂
