@@ -53,5 +53,6 @@ Since all is working in background, here is how you can controll the program for
 You can make TextMotes launching itself after every reboot to not bother to do it later.
 First solution is:
 > Press WIN + r and type shell:startup. When the directory will appear, paste here shortcut to the program.
+
 Second solution is:
 > Launch "Registry Editor" and go to "HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run", then create new entry containing path to TextMotes executable as value.
