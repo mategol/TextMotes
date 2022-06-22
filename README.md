@@ -6,7 +6,9 @@ You can use emote codes anywhere you want. Just put configuraed phrase beneath "
 
 # Example
 > ;smile; will produce 🙂
+
 > ;heart; will produce ❤
+
 > ;like; will produce 👍
 
 # Configuration
@@ -39,8 +41,10 @@ Default configuration:
   
 # Controlling the software
 Since all is working in background, here is how you can controll the program for your needs.
-> ;quit; - shutdown the software\n
+> ;quit; - shutdown the software
+
 > ;restart; - restart the software
+
 > ;emotes; - list all loaded emotes
 
 # Running TextMotes on system startup
