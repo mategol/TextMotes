@@ -39,7 +39,7 @@ Default configuration:
   
 # Controlling the software
 Since all is working in background, here is how you can controll the program for your needs.
-> ;quit; - shutdown the software
+> ;quit; - shutdown the software\n
 > ;restart; - restart the software
 > ;emotes; - list all loaded emotes
 
