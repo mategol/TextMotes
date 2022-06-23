@@ -1,53 +1,48 @@
 # TextMotes
-A software for making you express your emotions without any trouble.
-
-# Usage
-You can use emote codes anywhere you want. Just put configured phrase beneath **;** characters and magic will happen.
+A software for making you express your emotions without any trouble. You can use pre-configured emote codes anywhere you want. Just put configured phrase beneath `;` characters and magic will happen.
 
 # Example
-> ;smile; will produce 🙂
+`;smile;` will produce 🙂
 
-> ;heart; will produce ❤
+`;heart;` will produce ❤
 
-> ;like; will produce 👍
+`;like;` will produce 👍
 
 # Configuration
 You can configure each phrase for each emote, add and remove them simply in configuration file.
 Default configuration:
 ```
-  updown = 🙃
-  heart = ❤
-  smile = 🙂
-  proud = 😁
-  wink = 😉
-  angel = 😇
-  think = 🤔
-  throw = 🤮
-  cowboy = 🤠
-  like = 👍
-  sleep = 😴
-  fright = 😬
-  shh = 🤫
-  faceless = 😶
-  swag = 😎
-  susp = 🧐
-  tear = 😢
-  sad = 😕
-  angry = 😡
-  skull = 💀
-  love = 😍
-  tong = 😛
-  cry = 😭
-  party = 🥳
+updown = 🙃
+heart = ❤
+smile = 🙂
+proud = 😁
+wink = 😉
+angel = 😇
+think = 🤔
+throw = 🤮
+cowboy = 🤠
+like = 👍
+sleep = 😴
+fright = 😬
+shh = 🤫
+faceless = 😶
+swag = 😎
+susp = 🧐
+tear = 😢
+sad = 😕
+angry = 😡
+skull = 💀
+love = 😍
+tong = 😛
+cry = 😭
+party = 🥳
 ```
 
 # Controlling the software
-Since all is working in background, here is how you can controll the program for your needs.
-> ;quit; - shutdown the software
-
-> ;restart; - restart the software
-
-> ;emotes; - list all loaded emotes
+Since all is working in background, here is how you can controll the program for your needs.<br />
+`;quit;` - shutdown the software<br />
+`;restart;` - restart the software<br />
+`;emotes;` - list all loaded emotes<br />
 
 # Running TextMotes on system startup
 You can make TextMotes launching itself after every reboot to not bother to do it later.
